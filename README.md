@@ -1,5 +1,7 @@
 # AWS DeepLearning Setup
 
+the script only test in ubuntu 14.04,PLEASE ATTENTION
+
 ## First
 you have to be sure that you can use AWS GPU instance (g2 series) or AWS GPU compute (p-series) instance
 
