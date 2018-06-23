@@ -50,7 +50,7 @@ echo 'export PATH="/mnt/bin/anaconda3/bin:$PATH"' >> ~/.bashrc
 /mnt/bin/anaconda3/bin/pip install theano
 #install keras
 /mnt/bin/anaconda3/bin/pip install keras
-
+/mnt/bin/anaconda3/bin/pip install opencv-python
 
 
 
